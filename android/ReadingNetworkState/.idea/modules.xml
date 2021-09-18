@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ReadingNetworkState.iml" filepath="$PROJECT_DIR$/.idea/ReadingNetworkState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReadingNetworkState.iml" filepath="$PROJECT_DIR$/.idea/modules/ReadingNetworkState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ReadingNetworkState.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ReadingNetworkState.app.iml" />
     </modules>
   </component>
 </project>
